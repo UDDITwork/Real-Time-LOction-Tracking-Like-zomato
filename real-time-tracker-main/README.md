@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/exclusiveabhi/real-time-tracker.git
+   git clone https://github.com/UDDITwork/Real-Time-LOction-Tracking-Like-zomato.git
    cd real-time-tracker
    ```
 
